@@ -1,0 +1,16 @@
+﻿  PROJEKT_TESTOWY.cpp
+C:\Users\Adrian\Desktop\PW\grafika\PROJEKT_TESTOWY\PROJEKT_TESTOWY\olcConsoleGameEngine.h(645,1): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Adrian\Desktop\PW\grafika\PROJEKT_TESTOWY\PROJEKT_TESTOWY\olcConsoleGameEngine.h(985,1): warning C4267: "return": konwersja z "size_t" do "unsigned int", możliwa utrata danych
+C:\Users\Adrian\Desktop\PW\grafika\PROJEKT_TESTOWY\PROJEKT_TESTOWY\olcConsoleGameEngine.h(1082,1): warning C4312: "typ rzutowania": konwersja z "DWORD" na "olcConsoleGameEngine *" jest większej wielkości
+C:\Users\Adrian\Desktop\PW\grafika\PROJEKT_TESTOWY\PROJEKT_TESTOWY\PROJEKT_TESTOWY.cpp(647,44): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Adrian\Desktop\PW\grafika\PROJEKT_TESTOWY\PROJEKT_TESTOWY\PROJEKT_TESTOWY.cpp(647,23): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Adrian\Desktop\PW\grafika\PROJEKT_TESTOWY\PROJEKT_TESTOWY\PROJEKT_TESTOWY.cpp(646,44): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Adrian\Desktop\PW\grafika\PROJEKT_TESTOWY\PROJEKT_TESTOWY\PROJEKT_TESTOWY.cpp(646,23): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Adrian\Desktop\PW\grafika\PROJEKT_TESTOWY\PROJEKT_TESTOWY\PROJEKT_TESTOWY.cpp(645,56): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Adrian\Desktop\PW\grafika\PROJEKT_TESTOWY\PROJEKT_TESTOWY\PROJEKT_TESTOWY.cpp(645,35): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Adrian\Desktop\PW\grafika\PROJEKT_TESTOWY\PROJEKT_TESTOWY\PROJEKT_TESTOWY.cpp(369): warning C4715: "olcEngine3D::Triangle_ClipAgainstPlane”: niewszystkie ścieżki kodu zwracają wartość
+  All 562 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  PROJEKT_TESTOWY.vcxproj -> C:\Users\Adrian\Desktop\PW\grafika\PROJEKT_TESTOWY\x64\Release\PROJEKT_TESTOWY.exe

@@ -1,0 +1,9 @@
+﻿  PROJEKT_TESTOWY.cpp
+C:\Users\Adrian\Desktop\PW\grafika\PROJEKT_TESTOWY\PROJEKT_TESTOWY\PROJEKT_TESTOWY.cpp(639,44): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Adrian\Desktop\PW\grafika\PROJEKT_TESTOWY\PROJEKT_TESTOWY\PROJEKT_TESTOWY.cpp(639,23): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Adrian\Desktop\PW\grafika\PROJEKT_TESTOWY\PROJEKT_TESTOWY\PROJEKT_TESTOWY.cpp(638,44): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Adrian\Desktop\PW\grafika\PROJEKT_TESTOWY\PROJEKT_TESTOWY\PROJEKT_TESTOWY.cpp(638,23): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Adrian\Desktop\PW\grafika\PROJEKT_TESTOWY\PROJEKT_TESTOWY\PROJEKT_TESTOWY.cpp(637,56): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Adrian\Desktop\PW\grafika\PROJEKT_TESTOWY\PROJEKT_TESTOWY\PROJEKT_TESTOWY.cpp(637,35): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Adrian\Desktop\PW\grafika\PROJEKT_TESTOWY\PROJEKT_TESTOWY\PROJEKT_TESTOWY.cpp(369): warning C4715: "olcEngine3D::Triangle_ClipAgainstPlane”: niewszystkie ścieżki kodu zwracają wartość
+  PROJEKT_TESTOWY.vcxproj -> C:\Users\Adrian\Desktop\PW\grafika\PROJEKT_TESTOWY\Debug\PROJEKT_TESTOWY.exe
